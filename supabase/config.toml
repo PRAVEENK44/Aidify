@@ -1,0 +1,8 @@
+
+project_id = "xqinwmecsxjzlybxlkoh"
+
+[functions.vision-ai]
+verify_jwt = false
+
+[functions.gemini-analysis]
+verify_jwt = false
